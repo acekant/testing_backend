@@ -1,0 +1,19 @@
+{
+  "name": "testing-backend-setup",
+  "version": "1.0.0",
+  "description": "backend setup code teach by chai aur code",
+  "keywords": [
+    "backend",
+    "chai",
+    "aur",
+    "code",
+    "testing"
+  ],
+  "license": "ISC",
+  "author": "Dheerendra Kumar",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
